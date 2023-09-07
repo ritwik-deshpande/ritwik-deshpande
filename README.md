@@ -18,7 +18,7 @@
 |     Databases | MySQL, Oracle 19c, MongoDB, Cassandra      |
 
 </details>
-🌱 I’m currently learning courses focused on Systems and Cloud at UIUC, Cloud Storage Systems, Big Data Management, Distributed Systems
+🌱 I’m currently learning courses focused on Systems and Cloud at UIUC. </br>
 👯 I’m looking to collaborate on Cloud (AWS), Data Engineering, Full Stack Software Development projects </br>
 📫 How to reach me: Email: ritwikd2@illinois.edu  Phone: +1 447-902-1363 </br>
 ⚡ Fun fact: Cricket and Soccer fan. </br>
