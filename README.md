@@ -6,7 +6,7 @@
 🖥 Graduate Research Assistant at National Center for Supercomputing Applications. Jan'2023 - Dec'2023 ([NCSA](https://ncsa.illinois.edu/)), Champaign.  </br>
 ☁ SDE Intern at Amazon Web Services, Chicago May'2023 - Aug'2023 </br>
 📖 Teaching Assistant for Distributed Systems at UIUC Aug'2022 - Dec'2022 </br>
-🏦 Previously Software Engineer-2 (Data Engineer) at JP Morgan Chase & Co. Aug'2020 - Aug'2022 </br>
+🏦 Software Engineer-2 at JP Morgan Chase & Co. Aug'2020 - Aug'2022 </br>
 
 ### Skills
 <details>
