@@ -1,6 +1,7 @@
 ### Hi! 👋 I am Ritwik Deshpande and Welcome to my GitHub Profile
 
-☁ Software Engineer (MTS, Data Engineer, Multicloud Networking) at Aviatrix. Jan'2024 - Present </br>
+☁ Associate Software Engineer at Goldman Sachss. April'2024 - Present </br>
+☁ Software Engineer (MTS, Data Engineer, Multicloud Networking) at Aviatrix. Jan'2024 - April'2024 </br>
 📖 Master's in Computer Science at the University of Illinois Urbana-Champaign. </br>
 🖥 Research Software Engineer at National Center for Supercomputing Applications. Jan'2023 - Dec'2023 ([NCSA](https://ncsa.illinois.edu/)), Champaign.  </br>
 ☁ SDE Intern at Amazon Web Services, Chicago May'2023 - Aug'2023 </br>
